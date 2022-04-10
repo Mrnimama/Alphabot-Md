@@ -12,27 +12,27 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read pesan / message
+global.autoread = true // auto read pesan / message
 global.autorecording = true //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
+global.botname = "ᴍʀ ɴɪᴍᴀ ᴏғғɪᴄɪᴀʟ ʙᴏᴛ" //namabot kalian
+global.ownername= "ᴹᴿ᭄ ɴɪᴍᴀོ ×፝֟͜×" //nama kalian
 global.myweb ="https://api-alphabot.herokuapp.com/" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
-global.region = "Indonesia" //bebas
-global.ownernomer = "62887435047326" // nomor wa kalian
-global.ownernomerr = "+62887435047326" //nmr wa kalian
+global.youtube = "https://youtube.com/channel/UCjDKRYcwd5ZIpGICcVVL96Q" //bebas asal jan hapus
+global.github = "https://zene-ofc.github.io/" //bebas
+global.email = "mrnima@gmail.com" //bebas
+global.region = "India" //bebas
+global.ownernomer = "94719574492" // nomor wa kalian
+global.ownernomerr = "+95719574492" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62887435047326","62887435047326","6285342106390"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.owner = ["62887435047327","62887435047327","6285342106391"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© ᴍʀ ɴɪᴍᴀ ᴏғᴄ' //sticker wm ubah
+global.author = 'sᴛɪᴄᴋᴇʀ ᴍᴀᴋᴇ ʙʏ ᴍʀ ɴɪᴍᴀ ' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -43,16 +43,16 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     sukses: '🤗Done, Oke Desu~',
-    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
-    botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
-    group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
-    private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
-	bot: 'Fitur Khusus Pengguna Nomor Bot',
-    errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-    wait: '⏳ Sedang Di Proses',
-	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
-	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
+    admin: 'This command can only be used by admins! ⛔',
+    botAdmin: 'This command can only be used when the bot becomes an admin! 💔',
+    owner: 'This command can only be used by the owner!',
+    group: 'This command can only be used in groups!',
+    private: 'This command can only be used in private!',
+	bot: 'Bot Number User Special Features',
+    errtoimg: 'Sorry Currently Not Support Gif Sticker!',
+    wait: '⏳Please wait Being processed',
+	lockCmd: 'Feature Not Enabled By Owner!',
+	example1: '♥ WELCOME ♥ \n ᴍʀ ɴɪᴍᴀ ɢʀᴏᴜᴘ\n\n  @user Di Group @subject Donot forget to read the rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
 
 let file = require.resolve(__filename)
