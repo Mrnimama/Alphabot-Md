@@ -26,13 +26,13 @@ global.github = "https://zene-ofc.github.io/" //bebas
 global.email = "mrnima@gmail.com" //bebas
 global.region = "India" //bebas
 global.ownernomer = "94719574492" // nomor wa kalian
-global.ownernomerr = "+95719574492" //nmr wa kalian
+global.ownernomerr = "+94719574492" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62887435047327","62887435047327","6285342106391"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["94715166712","94719574492","447441465384"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© ᴍʀ ɴɪᴍᴀ ᴏғᴄ' //sticker wm ubah
-global.author = 'sᴛɪᴄᴋᴇʀ ᴍᴀᴋᴇ ʙʏ ᴍʀ ɴɪᴍᴀ ' //sticker wm ganti nama kalian
+global.author = 'sᴛɪᴄᴋᴇʀ ᴍᴀᴋᴇ ʙʏ ᴍʀ ɴɪᴍᴀ \ On nima official Group ' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
